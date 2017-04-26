@@ -1361,7 +1361,7 @@ header .logo a {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	text-align: center;
+	text-align: left;
 	padding-top: 15.6rem;
 	overflow: hidden;
 }
